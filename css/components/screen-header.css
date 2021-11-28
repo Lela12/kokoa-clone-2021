@@ -14,7 +14,6 @@
 
 .screen-header__icons span {
   margin-left: 32px;
-  position: relative;
 }
 
 @keyframes rotateCog {
